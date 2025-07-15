@@ -1,0 +1,7 @@
+numpy==1.24.3
+typing-extensions==4.5.0
+tensorflow-intel==2.13.0
+mediapipe==0.10.21
+opencv-python
+matplotlib
+scikit-learn
